@@ -1,0 +1,2 @@
+# Svadilfari
+Hadoop on SmartOS
